@@ -1,0 +1,291 @@
+#licenseheading
+{
+	text-align: center;
+	color: yellow;
+}
+
+#licensecontent
+{
+	text-align: center;
+}
+
+.carousel
+{
+	margin-top:80px;
+}
+
+#mainsecondheroimg
+{
+	
+}
+#thesecondmainimage
+{
+	width: 960px;
+	height:368px;
+	
+}
+
+#findusOn
+{
+	color: yellow;
+}
+
+#iconsforfooters1
+{
+	color: yellow;
+}
+
+#logo
+{
+	width:80px;
+   height:45px;
+}
+
+#licenseheading
+{
+	color: darkblue;
+	text-align: center;
+	font-size: 250%;
+    font-family: 'Satisfy', cursive;
+	
+}
+
+#firstcolumnpic
+{
+ width:294px;
+ height:300px;
+ font-family: 'Satisfy', cursive;
+}
+
+.firstpiccontent
+{
+	font-size: 120%;
+   font-family: 'Satisfy', cursive;
+}
+
+#secondcolumnpic
+{
+  width:294px;
+  height:300px;
+  font-family: 'Satisfy', cursive;
+}
+
+.secondpiccontent
+{
+	font-size: 120%;
+   font-family: 'Satisfy', cursive;
+}
+.abhilasha{
+	padding-left: 0px;
+	color: yellow;
+}
+
+#thirdcolumnpic
+{
+  width:294px;
+  height:300px;
+}
+
+.thirdpiccontent
+{
+	font-size: 120%;
+  font-family: 'Satisfy', cursive;
+}
+
+#licensecontent
+{
+	font-family: 'Satisfy', cursive;
+	font-size: 150%;
+}
+
+#rowspic
+{
+    width:305px; 
+    height:414px;
+}
+.secondpagequote
+{
+	font-size: 250%;
+	text-align: center;
+	color: blue;
+	font-family: sans-serif;
+}
+
+#firstrow
+{
+	font-size: 100%;
+	color: darkblue;
+	font-family: 'Merienda', cursive; 
+}
+
+#secondrow
+{
+	font-size: 100%;
+	color: darkblue;
+	font-family: 'Merienda', cursive; 
+}
+
+#thirdrow
+{
+	font-size: 100%;
+	color: darkblue;
+	font-family: 'Merienda', cursive; 
+}
+.wrap1,.wrap2,.wrap3,.wrap4,.wrap5,.wrap6,.wrap7,.wrap8,.wrap9,.wrap10,.wrap11,.wrap12
+{
+	width:310px;
+    height:300px;
+   
+}
+
+#firstpic
+{
+	width:960px;
+	height:368px;
+}
+
+#secondpic
+{
+	width:960px;
+	height:368px;
+}
+
+#thirdpic
+{
+	width:960px;
+	height:368px;
+}
+
+#fourthpic
+{
+	width:960px;
+	height:368px;
+}
+
+#fifthpic
+{
+	width:960px;
+	height:368px;
+}
+
+#sixthpic
+{
+	width:960px;
+	height:368px;
+}
+
+#help2img
+{
+	width:350px;
+	height: 340px;
+}
+
+#help1img
+{
+	width:350px;
+	height: 370px;
+}
+/*.wrap2
+{
+	width: 310px;
+	height: 300px;
+}
+
+.wrap3
+{
+	width: 310px;
+	height: 300px;
+}
+
+.wrap4
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap5
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap6
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap7
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap8
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap9
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap10
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap11
+{
+	width: 272px;
+	height: 300px;
+}
+
+.wrap12
+{
+	width: 272px;
+	height: 300px;
+}*/
+#icons
+{
+   background: black;
+   color: white;
+}
+#icons a{
+	color: white;
+	
+}
+#icons li
+{
+	color: yellow;
+	list-style: none;
+}
+#helpcontent
+{
+	color: skyblue;
+	font-size: 200%;
+	font-family: sans-serif;
+}
+
+#copyright
+{
+	font-family: sans-serif;
+}
+
+.secondpagequote
+{
+  margin-top: 50px;
+  color:darkblue;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-size: 200%;
+}
+
+#TheBandHeading
+{
+	color: yellow;
+}
